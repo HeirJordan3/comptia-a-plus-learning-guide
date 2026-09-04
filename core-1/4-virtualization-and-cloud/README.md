@@ -1,10 +1,24 @@
 # Domain 4 — Virtualization and Cloud
 
-CompTIA A+ Core 1 — 220-1201
+Virtualization and cloud computing are common in modern IT support. Help desk technicians regularly help users with virtual machines, remote desktops, cloud apps, and shared online services.
 
-This domain covers virtualization and cloud concepts used in entry-level IT support.
+Use the table below to find available lessons and track topics still in progress.
 
-Lessons for this domain are currently being developed.
+## Topic Navigation
+
+| Objective | Topic | Status |
+| --- | --- | --- |
+| 4.1 | [Virtualization Concepts](4.1-virtualization-concepts.md) | Available |
+| 4.1 | [Virtualization Services](4.1-virtualization-services.md) | Available |
+| 4.2 | [Cloud Models](4.2-cloud-models.md) | Available |
+| 4.2 | [Cloud Characteristics](4.2-cloud-characteristics.md) | Available |
+
+## Suggested Learning Path
+
+1. Start with [Virtualization Concepts](4.1-virtualization-concepts.md)
+2. Continue with [Virtualization Services](4.1-virtualization-services.md)
+3. Continue with [Cloud Models](4.2-cloud-models.md)
+4. Continue with [Cloud Characteristics](4.2-cloud-characteristics.md)
 
 ---
 
