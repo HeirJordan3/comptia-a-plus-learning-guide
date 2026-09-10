@@ -43,14 +43,14 @@ Use the table below to find available lessons and track topics still in progress
 
 | Objective | Topic | Status |
 | --- | --- | --- |
-| 2.6 | [IPv4 and IPv6](2.6-ipv4-and-ipv6.md) | Coming Soon |
-| 2.6 | [Assigning IP Addresses](2.6-assigning-ip-addresses.md) | Coming Soon |
+| 2.6 | [IPv4 and IPv6](2.6-ipv4-and-ipv6.md) | Available |
+| 2.6 | [Assigning IP Addresses](2.6-assigning-ip-addresses.md) | Available |
 
 ### 2.7 — Network Connections
 
 | Objective | Topic | Status |
 | --- | --- | --- |
-| 2.7 | [Internet Connection Types](2.7-internet-connection-types.md) | Coming Soon |
+| 2.7 | [Internet Connection Types](2.7-internet-connection-types.md) | Available |
 | 2.7 | [Network Types](2.7-network-types.md) | Coming Soon |
 
 ### 2.8 — Network Tools
