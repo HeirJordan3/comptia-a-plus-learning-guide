@@ -51,13 +51,13 @@ Use the table below to find available lessons and track topics still in progress
 | Objective | Topic | Status |
 | --- | --- | --- |
 | 2.7 | [Internet Connection Types](2.7-internet-connection-types.md) | Available |
-| 2.7 | [Network Types](2.7-network-types.md) | Coming Soon |
+| 2.7 | [Network Types](2.7-network-types.md) | Available |
 
 ### 2.8 — Network Tools
 
 | Objective | Topic | Status |
 | --- | --- | --- |
-| 2.8 | [Network Tools](2.8-network-tools.md) | Coming Soon |
+| 2.8 | [Network Tools](2.8-network-tools.md) | Available |
 
 ## Suggested Learning Path
 
