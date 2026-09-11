@@ -72,13 +72,13 @@ Use the tables below to find available lessons and track topics still in progres
 
 | Objective | Topic | Status |
 | --- | --- | --- |
-| 3.8 | [Laser Printer Maintenance](3.8-laser-printer-maintenance.md) | Coming Soon |
-| 3.8 | [Inkjet Printers](3.8-inkjet-printers.md) | Coming Soon |
-| 3.8 | [Inkjet Printer Maintenance](3.8-inkjet-printer-maintenance.md) | Coming Soon |
-| 3.8 | [Thermal Printers](3.8-thermal-printers.md) | Coming Soon |
-| 3.8 | [Thermal Printer Maintenance](3.8-thermal-printer-maintenance.md) | Coming Soon |
-| 3.8 | [Impact Printers](3.8-impact-printers.md) | Coming Soon |
-| 3.8 | [Impact Printer Maintenance](3.8-impact-printer-maintenance.md) | Coming Soon |
+| 3.8 | [Laser Printer Maintenance](3.8-laser-printer-maintenance.md) | Available |
+| 3.8 | [Inkjet Printers](3.8-inkjet-printers.md) | Available |
+| 3.8 | [Inkjet Printer Maintenance](3.8-inkjet-printer-maintenance.md) | Available |
+| 3.8 | [Thermal Printers](3.8-thermal-printers.md) | Available |
+| 3.8 | [Thermal Printer Maintenance](3.8-thermal-printer-maintenance.md) | Available |
+| 3.8 | [Impact Printers](3.8-impact-printers.md) | Available |
+| 3.8 | [Impact Printer Maintenance](3.8-impact-printer-maintenance.md) | Available |
 
 ## Suggested Learning Path
 
