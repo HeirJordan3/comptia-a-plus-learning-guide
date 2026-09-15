@@ -18,14 +18,14 @@ Use the tables below to find available lessons and track topics still in progres
 | Topic | Status |
 | --- | --- |
 | [Installing Operating Systems](installing-operating-systems.md) | Available |
-| [Upgrading Windows](upgrading-windows.md) | Coming Soon |
+| [Upgrading Windows](upgrading-windows.md) | Available |
 
 ### Microsoft Windows
 
 | Topic | Status |
 | --- | --- |
-| [An Overview of Windows](an-overview-of-windows.md) | Coming Soon |
-| [Windows Features](windows-features.md) | Coming Soon |
+| [An Overview of Windows](an-overview-of-windows.md) | Available |
+| [Windows Features](windows-features.md) | Available |
 
 ### The Windows OS
 
