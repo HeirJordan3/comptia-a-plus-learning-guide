@@ -46,9 +46,9 @@ Use the tables below to find available lessons and track topics still in progres
 | Topic | Status |
 | --- | --- |
 | [Motherboard Form Factors](motherboard-form-factors.md) | Available |
-| [Motherboard Expansion Slots](motherboard-expansion-slots.md) | Coming Soon |
-| [Motherboard Connections](motherboard-connections.md) | Coming Soon |
-| [Motherboard Compatibility](motherboard-compatibility.md) | Coming Soon |
+| [Motherboard Expansion Slots](motherboard-expansion-slots.md) | Available |
+| [Motherboard Connections](motherboard-connections.md) | Available |
+| [Motherboard Compatibility](motherboard-compatibility.md) | Available |
 | [The BIOS](the-bios.md) | Coming Soon |
 | [BIOS Settings](bios-settings.md) | Coming Soon |
 | [HSM and TPM](hsm-and-tpm.md) | Coming Soon |
