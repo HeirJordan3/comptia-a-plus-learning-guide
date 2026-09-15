@@ -18,28 +18,28 @@ Use the tables below to find available lessons and track topics still in progres
 | Objective | Topic | Status |
 | --- | --- | --- |
 | 3.2 | [Network Cables](3.2-network-cables.md) | Available |
-| 3.2 | [568A and 568B Colors](3.2-568a-and-568b-colors.md) | Coming Soon |
-| 3.2 | [Optical Fiber](3.2-optical-fiber.md) | Coming Soon |
+| 3.2 | [568A and 568B Colors](3.2-568a-and-568b-colors.md) | Available |
+| 3.2 | [Optical Fiber](3.2-optical-fiber.md) | Available |
 | 3.2 | [Peripheral Cables](3.2-peripheral-cables.md) | Coming Soon |
-| 3.2 | [Video Cables](3.2-video-cables.md) | Coming Soon |
-| 3.2 | [Storage Cables](3.2-storage-cables.md) | Coming Soon |
-| 3.2 | [Adapters and Converters](3.2-adapters-and-converters.md) | Coming Soon |
-| 3.2 | [Copper Connectors](3.2-copper-connectors.md) | Coming Soon |
-| 3.2 | [Fiber Connectors](3.2-fiber-connectors.md) | Coming Soon |
+| 3.2 | [Video Cables](3.2-video-cables.md) | Available |
+| 3.2 | [Storage Cables](3.2-storage-cables.md) | Available |
+| 3.2 | [Adapters and Converters](3.2-adapters-and-converters.md) | Available |
+| 3.2 | [Copper Connectors](3.2-copper-connectors.md) | Available |
+| 3.2 | [Fiber Connectors](3.2-fiber-connectors.md) | Available |
 
 ### 3.3 — Memory
 
 | Objective | Topic | Status |
 | --- | --- | --- |
-| 3.3 | [An Overview of Memory](3.3-memory-overview.md) | Coming Soon |
-| 3.3 | [Memory Technologies](3.3-memory-technologies.md) | Coming Soon |
+| 3.3 | [An Overview of Memory](3.3-memory-overview.md) | Available |
+| 3.3 | [Memory Technologies](3.3-memory-technologies.md) | Available |
 
 ### 3.4 — Storage Devices
 
 | Objective | Topic | Status |
 | --- | --- | --- |
-| 3.4 | [Storage Devices](3.4-storage-devices.md) | Coming Soon |
-| 3.4 | [RAID](3.4-raid.md) | Coming Soon |
+| 3.4 | [Storage Devices](3.4-storage-devices.md) | Available |
+| 3.4 | [RAID](3.4-raid.md) | Available |
 
 ### 3.5 — Motherboards
 
