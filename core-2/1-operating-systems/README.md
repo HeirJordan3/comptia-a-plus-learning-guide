@@ -17,7 +17,7 @@ Use the tables below to find available lessons and track topics still in progres
 
 | Topic | Status |
 | --- | --- |
-| [Installing Operating Systems](installing-operating-systems.md) | Coming Soon |
+| [Installing Operating Systems](installing-operating-systems.md) | Available |
 | [Upgrading Windows](upgrading-windows.md) | Coming Soon |
 
 ### Microsoft Windows
