@@ -11,13 +11,13 @@ Use the tables below to find available lessons and track topics still in progres
 | Objective | Topic | Status |
 | --- | --- | --- |
 | 3.1 | [Display Types](3.1-display-types.md) | Available |
-| 3.1 | [Display Attributes](3.1-display-attributes.md) | Coming Soon |
+| 3.1 | [Display Attributes](3.1-display-attributes.md) | Available |
 
 ### 3.2 — Cables and Connectors
 
 | Objective | Topic | Status |
 | --- | --- | --- |
-| 3.2 | [Network Cables](3.2-network-cables.md) | Coming Soon |
+| 3.2 | [Network Cables](3.2-network-cables.md) | Available |
 | 3.2 | [568A and 568B Colors](3.2-568a-and-568b-colors.md) | Coming Soon |
 | 3.2 | [Optical Fiber](3.2-optical-fiber.md) | Coming Soon |
 | 3.2 | [Peripheral Cables](3.2-peripheral-cables.md) | Coming Soon |
@@ -45,7 +45,7 @@ Use the tables below to find available lessons and track topics still in progres
 
 | Objective | Topic | Status |
 | --- | --- | --- |
-| 3.5 | [Motherboard Form Factors](3.5-motherboard-form-factors.md) | Coming Soon |
+| 3.5 | [Motherboard Form Factors](3.5-motherboard-form-factors.md) | Available |
 | 3.5 | [Motherboard Expansion Slots](3.5-motherboard-expansion-slots.md) | Coming Soon |
 | 3.5 | [Motherboard Connections](3.5-motherboard-connections.md) | Coming Soon |
 | 3.5 | [Motherboard Compatibility](3.5-motherboard-compatibility.md) | Coming Soon |
