@@ -216,7 +216,7 @@ If it mentions what to do when authentication fails, think DMARC.
 
 ## Continue Learning
 
-- Lesson: [DNS Configuration](../core-1/2-networking/2.4-dns-configuration.md)
+- Lesson: [DNS Configuration](../core-1/2-networking/dns-configuration.md)
 - Activity: [DNS Record Matching Challenge](../activities/dns-record-matching.md)
-- Next Topic: [DHCP](../core-1/2-networking/2.4-dhcp.md)
+- Next Topic: [DHCP](../core-1/2-networking/dhcp.md)
 - Back to [Study Guides](README.md)

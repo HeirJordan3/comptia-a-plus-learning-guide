@@ -12,8 +12,8 @@ Use this flow:
 
 | Activity | Related Lesson |
 | --- | --- |
-| [DNS Record Matching Challenge](dns-record-matching.md) | [DNS Configuration](../core-1/2-networking/2.4-dns-configuration.md) |
-| [DHCP Scenario Challenge](dhcp-scenario-challenge.md) | [DHCP](../core-1/2-networking/2.4-dhcp.md) |
+| [DNS Record Matching Challenge](dns-record-matching.md) | [DNS Configuration](../core-1/2-networking/dns-configuration.md) |
+| [DHCP Scenario Challenge](dhcp-scenario-challenge.md) | [DHCP](../core-1/2-networking/dhcp.md) |
 
 Student activity pages do not include answer keys. Use them to practice recognition and decision-making.
 

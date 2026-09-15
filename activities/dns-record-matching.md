@@ -44,6 +44,6 @@ I. DMARC
 
 ## Continue Learning
 
-- Back to lesson: [DNS Configuration](../core-1/2-networking/2.4-dns-configuration.md)
+- Back to lesson: [DNS Configuration](../core-1/2-networking/dns-configuration.md)
 - Study Guide: [DNS Study Guide](../study-guides/dns-study-guide.md)
 - Back to [Activities](README.md)

@@ -206,7 +206,7 @@ If a printer needs `192.168.10.150` every time through DHCP, configure a reserva
 
 ## Continue Learning
 
-- Lesson: [DHCP](../core-1/2-networking/2.4-dhcp.md)
+- Lesson: [DHCP](../core-1/2-networking/dhcp.md)
 - Activity: [DHCP Scenario Challenge](../activities/dhcp-scenario-challenge.md)
-- Next Topic: [VLANs and VPNs](../core-1/2-networking/2.4-vlans-and-vpns.md)
+- Next Topic: [VLANs and VPNs](../core-1/2-networking/vlans-and-vpns.md)
 - Back to [Study Guides](README.md)

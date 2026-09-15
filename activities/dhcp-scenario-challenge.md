@@ -58,6 +58,6 @@ Write your answers on paper, in notes, or in a separate document. Do not look fo
 
 ## Continue Learning
 
-- Back to lesson: [DHCP](../core-1/2-networking/2.4-dhcp.md)
+- Back to lesson: [DHCP](../core-1/2-networking/dhcp.md)
 - Study Guide: [DHCP Study Guide](../study-guides/dhcp-study-guide.md)
 - Back to [Activities](README.md)
