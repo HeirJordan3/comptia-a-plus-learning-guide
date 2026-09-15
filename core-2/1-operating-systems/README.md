@@ -11,7 +11,7 @@ Use the tables below to find available lessons and track topics still in progres
 | Topic | Status |
 | --- | --- |
 | [Operating Systems Overview](operating-systems-overview.md) | Available |
-| [File Systems](file-systems.md) | Coming Soon |
+| [File Systems](file-systems.md) | Available |
 
 ### Installing Operating Systems
 
