@@ -20,7 +20,7 @@ Use the tables below to find available lessons and track topics still in progres
 | 3.2 | [Network Cables](3.2-network-cables.md) | Available |
 | 3.2 | [568A and 568B Colors](3.2-568a-and-568b-colors.md) | Available |
 | 3.2 | [Optical Fiber](3.2-optical-fiber.md) | Available |
-| 3.2 | [Peripheral Cables](3.2-peripheral-cables.md) | Coming Soon |
+| 3.2 | [Peripheral Cables](3.2-peripheral-cables.md) | Available |
 | 3.2 | [Video Cables](3.2-video-cables.md) | Available |
 | 3.2 | [Storage Cables](3.2-storage-cables.md) | Available |
 | 3.2 | [Adapters and Converters](3.2-adapters-and-converters.md) | Available |
