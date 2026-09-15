@@ -7,7 +7,7 @@ Core 2 focuses on the software, security, and professional skills IT support tec
 - Software troubleshooting
 - Operational procedures
 
-Use the domain links below to start learning. Lessons will be added as this guide expands.
+Use the domain links below to start learning. Lessons are marked Available or Coming Soon inside each domain.
 
 ## Domains
 
