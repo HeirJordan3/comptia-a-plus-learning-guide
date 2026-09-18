@@ -49,12 +49,12 @@ Use the tables below to find available lessons and track topics still in progres
 | [Motherboard Expansion Slots](motherboard-expansion-slots.md) | Available |
 | [Motherboard Connections](motherboard-connections.md) | Available |
 | [Motherboard Compatibility](motherboard-compatibility.md) | Available |
-| [The BIOS](the-bios.md) | Coming Soon |
-| [BIOS Settings](bios-settings.md) | Coming Soon |
-| [HSM and TPM](hsm-and-tpm.md) | Coming Soon |
-| [CPU Features](cpu-features.md) | Coming Soon |
-| [Expansion Cards](expansion-cards.md) | Coming Soon |
-| [Cooling](cooling.md) | Coming Soon |
+| [The BIOS](the-bios.md) | Available |
+| [BIOS Settings](bios-settings.md) | Available |
+| [HSM and TPM](hsm-and-tpm.md) | Available |
+| [CPU Features](cpu-features.md) | Available |
+| [Expansion Cards](expansion-cards.md) | Available |
+| [Cooling](cooling.md) | Available |
 
 ### Power
 
