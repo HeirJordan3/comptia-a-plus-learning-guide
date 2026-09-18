@@ -60,13 +60,13 @@ Use the tables below to find available lessons and track topics still in progres
 
 | Topic | Status |
 | --- | --- |
-| [Computer Power](computer-power.md) | Coming Soon |
+| [Computer Power](computer-power.md) | Available |
 
 ### Multifunction Devices
 
 | Topic | Status |
 | --- | --- |
-| [Multifunction Devices](multifunction-devices.md) | Coming Soon |
+| [Multifunction Devices](multifunction-devices.md) | Available |
 
 ### Printers
 
