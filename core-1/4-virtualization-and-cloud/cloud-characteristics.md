@@ -237,5 +237,5 @@ Multitenancy means shared infrastructure, not shared private data. Providers are
 ## Continue Learning
 
 - Previous Topic: [Cloud Models](cloud-models.md)
-- Next Topic: [Domain 5 — Hardware and Network Troubleshooting](../5-hardware-and-network-troubleshooting/README.md)
+- Next Topic: [Troubleshooting Hardware](../5-hardware-and-network-troubleshooting/troubleshooting-hardware.md)
 - Back to [Domain 4 — Virtualization and Cloud](README.md)
