@@ -216,7 +216,7 @@ They route work and enable filtering/reporting.
 
 ## Continue Learning
 
-- Next Topic (Module 11): [Document Types](document-types.md)
-- Related (Module 22): [Asset Management](asset-management.md)
+- Next Topic: [Asset Management](asset-management.md)
+- Related (Module 11): [Document Types](document-types.md)
 - Back to [Domain 4 — Operational Procedures](README.md)
 - Course Map: [Core 2 Study Path](../COURSE-MAP.md)

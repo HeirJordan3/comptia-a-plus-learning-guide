@@ -27,8 +27,8 @@ Start here for Core 2 operational procedures and OS foundations.
 | 11.1 Documentation | 11.1.1–11.1.2 SOPs/SLAs; 11.1.7–11.1.12 KB, lessons learned, written communication, policy docs | Document Types | 4.1 | 7:29 | [document-types.md](4-operational-procedures/document-types.md) |
 | 11.2 Professional Communication | 11.2.1–11.2.3 support processes, delivery, appearance | Professionalism | 4.7 | 4:47 | *(planned)* |
 | 11.2 Professional Communication | 11.2.4–11.2.8 communications, clarifying questions, difficult customers, social media | Communication | 4.7 | 7:00 | *(planned)* |
-| 11.3 Types of Operating Systems | 11.3.1–11.3.3 OS types; 11.3.6 compatibility; 11.3.7 vendor life-cycle | Operating Systems Overview | 1.1 | 12:59 | *(planned)* |
-| 11.3 Types of Operating Systems | 11.3.4–11.3.5 Windows, Linux, macOS file systems | File Systems | 1.1 | 5:51 | *(planned)* |
+| 11.3 Types of Operating Systems | 11.3.1–11.3.3 OS types; 11.3.6 compatibility; 11.3.7 vendor life-cycle | Operating Systems Overview | 1.1 | 12:59 | [operating-systems-overview.md](1-operating-systems/operating-systems-overview.md) |
+| 11.3 Types of Operating Systems | 11.3.4–11.3.5 Windows, Linux, macOS file systems | File Systems | 1.1 | 5:51 | [file-systems.md](1-operating-systems/file-systems.md) |
 
 **Note:** 11.4 incident lifecycle / response plan capstones make more sense after Module 21. Preview Incident Response (4.6) if needed.
 
@@ -197,13 +197,15 @@ Heaviest module.
 
 ## Current Build Focus
 
-**Module 11 start (objective 4.1 first):**
+**Objective 4.1 complete (Messer video order):**
 
 1. Ticketing Systems — **Available**
-2. Document Types — next (paste transcript)
-3. Then Professionalism / Communication (4.7), then Domain 1 OS Overview / File Systems
+2. Asset Management — **Available**
+3. Document Types — **Available**
 
-Asset Management stays under Domain 4 objective 4.1 but is built with **Module 22**.
+**Next:** Installing Operating Systems (1.2) — paste transcript when ready.
+
+Objective **1.1** OS types + file systems complete for Module 11’s OS block.
 
 ---
 
