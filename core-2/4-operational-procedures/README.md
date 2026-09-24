@@ -13,7 +13,7 @@ This domain covers documentation, support systems, change/inventory, safety, env
 | Topic | Status | CertMaster module |
 | --- | --- | --- |
 | [Ticketing Systems](ticketing-systems.md) | Available | Module 11 |
-| [Asset Management](asset-management.md) | Available | Module 22 *(Messer 4.1)* |
+| [Asset Management](asset-management.md) | Available | Module 22 (objective 4.1) |
 | [Document Types](document-types.md) | Available | Module 11 |
 
 ### 4.2 — Change Management
@@ -36,7 +36,7 @@ This domain covers documentation, support systems, change/inventory, safety, env
 | [Scripting Languages](scripting-languages.md) | Coming Soon | Module 22 |
 | [Scripting Use Cases](scripting-use-cases.md) | Coming Soon | Module 22 |
 
-## Suggested Order (Messer)
+## Suggested Order
 
 1. [Ticketing Systems](ticketing-systems.md)
 2. [Asset Management](asset-management.md)

@@ -66,7 +66,7 @@ Different services, one working organization.
 
 DNS stands for Domain Name System.
 
-When you type a name like `google.com` or `professormesser.com`, DNS helps convert that fully qualified domain name into an IP address. It can also support reverse lookups and other related information.
+When you type a name like `google.com` or `example.com`, DNS helps convert that fully qualified domain name into an IP address. It can also support reverse lookups and other related information.
 
 DNS is distributed across many servers on the internet. Organizations may also run internal DNS servers.
 

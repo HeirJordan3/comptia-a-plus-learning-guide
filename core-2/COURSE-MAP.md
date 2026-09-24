@@ -1,8 +1,8 @@
-# Core 2 Study Path — CertMaster Modules ↔ Professor Messer
+# Core 2 Study Path — CertMaster Modules ↔ Lesson Topics
 
 Use this map when building and studying Core 2 lessons.  
 **Learning order follows CertMaster modules.**  
-**Lesson folders follow CompTIA / Professor Messer objective sections** (Domain 1–4).
+**Lesson folders follow CompTIA A+ objective sections** (Domain 1–4).
 
 Source exams: CompTIA A+ Core 2 — 220-1202
 
@@ -11,8 +11,8 @@ Source exams: CompTIA A+ Core 2 — 220-1202
 ## How to Use This Guide
 
 1. Work modules in order (11 → 22).
-2. For each row, watch the Messer video, then read/create the matching lesson.
-3. When CertMaster covers a topic with no dedicated Messer video, lean on CertMaster (noted below).
+2. For each row, read the matching lesson for each topic.
+3. When CertMaster covers a topic with no dedicated video coverage, lean on CertMaster (noted below).
 4. Capstones that need later context are called out in-module.
 
 ---
@@ -21,7 +21,7 @@ Source exams: CompTIA A+ Core 2 — 220-1202
 
 Start here for Core 2 operational procedures and OS foundations.
 
-| CertMaster | Topics | Messer Video | Section | Time | Lesson file |
+| CertMaster | Topics | Lesson Topic | Section | Time | Lesson file |
 | --- | --- | --- | --- | --- | --- |
 | 11.1 Documentation | 11.1.3–11.1.6 ticketing (categories, severity, management, escalation); 11.1.13–11.1.15 Ticket Labs | Ticketing Systems | 4.1 | 13:48 | [ticketing-systems.md](4-operational-procedures/ticketing-systems.md) |
 | 11.1 Documentation | 11.1.1–11.1.2 SOPs/SLAs; 11.1.7–11.1.12 KB, lessons learned, written communication, policy docs | Document Types | 4.1 | 7:29 | [document-types.md](4-operational-procedures/document-types.md) |
@@ -38,7 +38,7 @@ Start here for Core 2 operational procedures and OS foundations.
 
 ## Module 12 — Configuring Windows (~52 min)
 
-| CertMaster | Topics | Messer Video | Section | Time |
+| CertMaster | Topics | Lesson Topic | Section | Time |
 | --- | --- | --- | --- | --- |
 | 12.1 Windows User Settings | 12.1.1–12.1.12 interfaces, accounts, privacy, ease of access, File Explorer, indexing | Windows Settings | 1.6 | 6:34 |
 | 12.1 / 12.2 | File Explorer/Indexing; 12.2.4–12.2.10 devices, power, programs, network | The Windows Control Panel | 1.6 | 23:09 |
@@ -51,7 +51,7 @@ Start here for Core 2 operational procedures and OS foundations.
 
 ## Module 13 — Managing Windows (~1 hr 25 min)
 
-| CertMaster | Topics | Messer Video | Section | Time |
+| CertMaster | Topics | Lesson Topic | Section | Time |
 | --- | --- | --- | --- | --- |
 | 13.1 Use Management Consoles | Device Manager, Disk Mgmt, Task Scheduler, Local Users/Groups, Cert Manager, gpedit, custom MMC | The Microsoft Management Console | 1.4 | 15:22 |
 | 13.1 Use Management Consoles | Disk maintenance tools, Registry Editor | Additional Windows Tools | 1.4 | 12:25 |
@@ -64,7 +64,7 @@ Start here for Core 2 operational procedures and OS foundations.
 
 ## Module 14 — Supporting Windows (~54 min)
 
-| CertMaster | Topics | Messer Video | Section | Time |
+| CertMaster | Topics | Lesson Topic | Section | Time |
 | --- | --- | --- | --- | --- |
 | 14.1 Troubleshoot Windows Networking | IP config, connectivity, name resolution, ports | The Windows Network Command Line | 1.5 | 18:24 |
 | 14.2 Remote Access Technologies | RDP, Remote Assistance, SSH, RMM, other tools | Remote Access | 4.9 | 12:49 |
@@ -73,13 +73,13 @@ Start here for Core 2 operational procedures and OS foundations.
 | 14.3 Performance Tools | System Info, Resource Monitor, msconfig | Review: Additional Windows Tools | 1.4 | *(Mod 13)* |
 | 14.4 Troubleshoot Windows OS Problems | Boot recovery, System Restore, rollback, performance, faults | Troubleshooting Windows | 3.1 | 17:30 |
 
-**Note:** Lean on CertMaster for WinRM (14.2.5) and SPICE (14.2.8) — Messer may not cover them.
+**Note:** Lean on CertMaster for WinRM (14.2.5) and SPICE (14.2.8) — not all video courses cover them.
 
 ---
 
 ## Module 15 — Securing Windows (~1 hr 13 min)
 
-| CertMaster | Topics | Messer Video | Section | Time |
+| CertMaster | Topics | Lesson Topic | Section | Time |
 | --- | --- | --- | --- | --- |
 | 15.1 Logical Security Concepts | Logical controls, information security | Logical Security | 2.1 | 10:38 |
 | 15.1 Logical Security Concepts | Authentication methods | Authentication and Access | 2.1 | 12:05 |
@@ -88,13 +88,13 @@ Start here for Core 2 operational procedures and OS foundations.
 | 15.3 Windows Shares | Workgroups, file/printer sharing | Windows Network Technologies | 1.7 | 8:37 |
 | 15.3 Windows Shares | Mapping drives | Review: Windows Network Connections | 1.7 | *(Mod 13)* |
 
-**Note:** No dedicated Messer videos for hashing, asymmetric encryption, or digital signatures (15.1.3–15.1.5) — use CertMaster.
+**Note:** No dedicated video lessons for hashing, asymmetric encryption, or digital signatures (15.1.3–15.1.5) — use CertMaster.
 
 ---
 
 ## Module 16 — Installing Operating Systems (~43 min)
 
-| CertMaster | Topics | Messer Video | Section | Time |
+| CertMaster | Topics | Lesson Topic | Section | Time |
 | --- | --- | --- | --- | --- |
 | 16.1 Windows Editions | Versions; Home, Pro, Enterprise, Education | An Overview of Windows | 1.3 | 9:09 |
 | 16.1 Windows Editions | Domain, RDP, BitLocker, RAM support | Windows Features | 1.3 | 8:54 |
@@ -105,7 +105,7 @@ Start here for Core 2 operational procedures and OS foundations.
 
 ## Module 17 — Supporting Other OS (~40 min + Linux command videos)
 
-| CertMaster | Topics | Messer Video | Section | Time |
+| CertMaster | Topics | Lesson Topic | Section | Time |
 | --- | --- | --- | --- | --- |
 | 17.1 Linux Features | Shells, terminals, command interface | Linux | 1.9 | 11:11 |
 | 17.1 Linux Features | Navigation, search, files, users, permissions | Linux Commands Part 1 | 1.9 | *(not listed)* |
@@ -122,7 +122,7 @@ Start here for Core 2 operational procedures and OS foundations.
 
 Heaviest module.
 
-| CertMaster | Topics | Messer Video | Section | Time |
+| CertMaster | Topics | Lesson Topic | Section | Time |
 | --- | --- | --- | --- | --- |
 | 18.1 Attacks / Threats / Vulnerabilities | Vulnerabilities | Security Vulnerabilities | 2.5 | 8:47 |
 | 18.1 | Social engineering, phishing | Social Engineering | 2.5 | 13:37 |
@@ -145,7 +145,7 @@ Heaviest module.
 
 ## Module 19 — Managing Security Settings (~1 hr 36 min)
 
-| CertMaster | Topics | Messer Video | Section | Time |
+| CertMaster | Topics | Lesson Topic | Section | Time |
 | --- | --- | --- | --- | --- |
 | 19.1 Account Security | Passwords, end-user practices, default admin, guest, policies | Security Best Practices | 2.7 | 15:15 |
 | 19.2 Workstation Security | Defender Antivirus | Defender Antivirus | 2.2 | 5:01 |
@@ -161,7 +161,7 @@ Heaviest module.
 
 ## Module 20 — Supporting Mobile Software (~34 min)
 
-| CertMaster | Topics | Messer Video | Section | Time |
+| CertMaster | Topics | Lesson Topic | Section | Time |
 | --- | --- | --- | --- | --- |
 | 20.1 Mobile OS Security | Screen locks, EMM/MDM, 2FA, remote wipe | Mobile Device Security | 2.8 | 10:28 |
 | 20.2 Troubleshoot Mobile OS and Apps | Tools, OS, app, connectivity | Troubleshooting Mobile Devices | 3.2 | 11:30 |
@@ -171,7 +171,7 @@ Heaviest module.
 
 ## Module 21 — Using Data Security (~49 min)
 
-| CertMaster | Topics | Messer Video | Section | Time |
+| CertMaster | Topics | Lesson Topic | Section | Time |
 | --- | --- | --- | --- | --- |
 | 21.1 Data Backup and Recovery | Operations, methods, media, testing | Managing Backups | 4.3 | 15:01 |
 | 21.2 Data Handling Best Practices | Regulated data, prohibited content, licensing | Privacy, Licensing, and Policies | 4.6 | 10:54 |
@@ -183,7 +183,7 @@ Heaviest module.
 
 ## Module 22 — Implementing Operational Procedures (~58 min)
 
-| CertMaster | Topics | Messer Video | Section | Time | Lesson file |
+| CertMaster | Topics | Lesson Topic | Section | Time | Lesson file |
 | --- | --- | --- | --- | --- | --- |
 | 22.1 Change and Inventory Management | Change requests, risk, board approvals, implementation | Change Management | 4.2 | 21:42 | *(planned)* |
 | 22.1 Change and Inventory Management | Asset management, warranty, licensing | Asset Management | 4.1 | 4:51 | [asset-management.md](4-operational-procedures/asset-management.md) |
@@ -197,7 +197,7 @@ Heaviest module.
 
 ## Current Build Focus
 
-**Objective 4.1 complete (Messer video order):**
+**Objective 4.1 complete (lesson video order):**
 
 1. Ticketing Systems — **Available**
 2. Asset Management — **Available**

@@ -82,7 +82,7 @@ You will make mistakes someday — model the professionalism you want back.
 
 ### Approachable and Clear Conversations
 
-- Be approachable (small gestures help — Messer’s example: candy bowl at the desk)
+- Be approachable (small gestures help — for example, a small candy bowl at the desk)
 - Talk where there is little background noise
 - Avoid **speakerphone** with customers
 

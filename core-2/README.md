@@ -20,7 +20,7 @@ Use the domain links below to start learning. Lessons will be added as this guid
 
 ## Course Map
 
-- [CertMaster Modules ↔ Professor Messer](COURSE-MAP.md)
+- [CertMaster Modules ↔ Lesson Topics](COURSE-MAP.md)
 
 ## Related Resources
 

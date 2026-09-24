@@ -141,7 +141,7 @@ To receive email on a client, protocols such as POP3 or IMAP are commonly used.
 
 DNS stands for Domain Name System.
 
-People type names like `www.professormesser.com`, not long IP addresses. DNS translates a fully qualified domain name into an IP address.
+People type names like `www.example.com`, not long IP addresses. DNS translates a fully qualified domain name into an IP address.
 
 DNS commonly uses **UDP 53**.
 
