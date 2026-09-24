@@ -9,12 +9,18 @@ Core 2 focuses on the software, security, and professional skills IT support tec
 
 Use the domain links below to start learning. Lessons will be added as this guide expands.
 
+**Study path:** Follow CertMaster module order via the [Course Map](COURSE-MAP.md) (starts at Module 11 — Ticketing Systems).
+
 ## Domains
 
 - [1 — Operating Systems](1-operating-systems/README.md)
 - [2 — Security](2-security/README.md)
 - [3 — Software Troubleshooting](3-software-troubleshooting/README.md)
 - [4 — Operational Procedures](4-operational-procedures/README.md)
+
+## Course Map
+
+- [CertMaster Modules ↔ Professor Messer](COURSE-MAP.md)
 
 ## Related Resources
 
