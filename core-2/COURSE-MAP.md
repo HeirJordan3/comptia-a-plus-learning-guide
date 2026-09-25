@@ -38,12 +38,12 @@ Start here for Core 2 operational procedures and OS foundations.
 
 ## Module 12 — Configuring Windows (~52 min)
 
-| CertMaster | Topics | Lesson Topic | Section | Time |
-| --- | --- | --- | --- | --- |
-| 12.1 Windows User Settings | 12.1.1–12.1.12 interfaces, accounts, privacy, ease of access, File Explorer, indexing | Windows Settings | 1.6 | 6:34 |
-| 12.1 / 12.2 | File Explorer/Indexing; 12.2.4–12.2.10 devices, power, programs, network | The Windows Control Panel | 1.6 | 23:09 |
-| 12.3 Install and Configure Applications | 12.3.1–12.3.4 requirements, distribution | Installing Applications | 1.10 | 16:27 |
-| 12.4 Cloud-Based Applications | 12.4.1–12.4.5 email, storage, collaboration, licensing, identity sync | Cloud Productivity Tools | 1.11 | 5:47 |
+| CertMaster | Topics | Lesson Topic | Section | Time | Lesson file |
+| --- | --- | --- | --- | --- | --- |
+| 12.1 Windows User Settings | 12.1.1–12.1.12 interfaces, accounts, privacy, ease of access, File Explorer, indexing | Windows Settings | 1.6 | 6:34 | [windows-settings.md](1-operating-systems/windows-settings.md) |
+| 12.1 / 12.2 | File Explorer/Indexing; 12.2.4–12.2.10 devices, power, programs, network | The Windows Control Panel | 1.6 | 23:09 | [the-windows-control-panel.md](1-operating-systems/the-windows-control-panel.md) |
+| 12.3 Install and Configure Applications | 12.3.1–12.3.4 requirements, distribution | Installing Applications | 1.10 | 16:27 | [installing-applications.md](1-operating-systems/installing-applications.md) |
+| 12.4 Cloud-Based Applications | 12.4.1–12.4.5 email, storage, collaboration, licensing, identity sync | Cloud Productivity Tools | 1.11 | 5:47 | [cloud-productivity-tools.md](1-operating-systems/cloud-productivity-tools.md) |
 
 **Note:** 12.2.11 Administrative Tools is a preview; full MMC coverage is Module 13.
 
@@ -197,15 +197,11 @@ Heaviest module.
 
 ## Current Build Focus
 
-**Objective 4.1 complete (lesson video order):**
+**Module 12 cloud block:** Cloud Productivity Tools (1.11) — **Available**.
 
-1. Ticketing Systems — **Available**
-2. Asset Management — **Available**
-3. Document Types — **Available**
+**Next:** Physical Security (2.1) — paste transcript when ready.
 
-**Next:** Installing Operating Systems (1.2) — paste transcript when ready.
-
-Objective **1.1** OS types + file systems complete for Module 11’s OS block.
+Objective **1.6** and **1.10**–**1.11** Module 12 app/cloud lessons are Available. Installing Operating Systems (1.2) remains stubbed for Module 16.
 
 ---
 
