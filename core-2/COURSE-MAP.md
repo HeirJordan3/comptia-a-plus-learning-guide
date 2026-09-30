@@ -51,27 +51,27 @@ Start here for Core 2 operational procedures and OS foundations.
 
 ## Module 13 — Managing Windows (~1 hr 25 min)
 
-| CertMaster | Topics | Lesson Topic | Section | Time |
-| --- | --- | --- | --- | --- |
-| 13.1 Use Management Consoles | Device Manager, Disk Mgmt, Task Scheduler, Local Users/Groups, Cert Manager, gpedit, custom MMC | The Microsoft Management Console | 1.4 | 15:22 |
-| 13.1 Use Management Consoles | Disk maintenance tools, Registry Editor | Additional Windows Tools | 1.4 | 12:25 |
-| 13.2 Command-Line Tools | Navigation, file, disk, system commands | Windows Command Line Tools | 1.5 | 31:07 |
-| 13.3 Windows Networking | IP addressing and client config | Windows IP Address Configuration | 1.7 | 6:45 |
-| 13.3 Windows Networking | Connection types, location, VPN/WWAN, proxy | Windows Network Connections | 1.7 | 13:08 |
-| 13.3 Windows Networking | Defender Firewall | Configuring Windows Firewall | 1.7 | 6:32 |
+| CertMaster | Topics | Lesson Topic | Section | Time | Lesson file |
+| --- | --- | --- | --- | --- | --- |
+| 13.1 Use Management Consoles | Device Manager, Disk Mgmt, Task Scheduler, Local Users/Groups, Cert Manager, gpedit, custom MMC | The Microsoft Management Console | 1.4 | 15:22 | [the-microsoft-management-console.md](1-operating-systems/the-microsoft-management-console.md) |
+| 13.1 Use Management Consoles | Disk maintenance tools, Registry Editor | Additional Windows Tools | 1.4 | 12:25 | [additional-windows-tools.md](1-operating-systems/additional-windows-tools.md) |
+| 13.2 Command-Line Tools | Navigation, file, disk, system commands | Windows Command Line Tools | 1.5 | 31:07 | [windows-command-line-tools.md](1-operating-systems/windows-command-line-tools.md) |
+| 13.3 Windows Networking | IP addressing and client config | Windows IP Address Configuration | 1.7 | 6:45 | [windows-ip-address-configuration.md](1-operating-systems/windows-ip-address-configuration.md) |
+| 13.3 Windows Networking | Connection types, location, VPN/WWAN, proxy | Windows Network Connections | 1.7 | 13:08 | [windows-network-connections.md](1-operating-systems/windows-network-connections.md) |
+| 13.3 Windows Networking | Defender Firewall | Configuring Windows Firewall | 1.7 | 6:32 | [configuring-windows-firewall.md](1-operating-systems/configuring-windows-firewall.md) |
 
 ---
 
 ## Module 14 — Supporting Windows (~54 min)
 
-| CertMaster | Topics | Lesson Topic | Section | Time |
-| --- | --- | --- | --- | --- |
-| 14.1 Troubleshoot Windows Networking | IP config, connectivity, name resolution, ports | The Windows Network Command Line | 1.5 | 18:24 |
-| 14.2 Remote Access Technologies | RDP, Remote Assistance, SSH, RMM, other tools | Remote Access | 4.9 | 12:49 |
-| 14.3 Performance Tools | Task Manager | Task Manager | 1.4 | 4:52 |
-| 14.3 Performance Tools | Event Viewer, Services, Perf Monitor | Review: MMC | 1.4 | *(Mod 13)* |
-| 14.3 Performance Tools | System Info, Resource Monitor, msconfig | Review: Additional Windows Tools | 1.4 | *(Mod 13)* |
-| 14.4 Troubleshoot Windows OS Problems | Boot recovery, System Restore, rollback, performance, faults | Troubleshooting Windows | 3.1 | 17:30 |
+| CertMaster | Topics | Lesson Topic | Section | Time | Lesson file |
+| --- | --- | --- | --- | --- | --- |
+| 14.1 Troubleshoot Windows Networking | IP config, connectivity, name resolution, ports | The Windows Network Command Line | 1.5 | 18:24 | [the-windows-network-command-line.md](1-operating-systems/the-windows-network-command-line.md) |
+| 14.2 Remote Access Technologies | RDP, Remote Assistance, SSH, RMM, other tools | Remote Access | 4.9 | 12:49 | *(planned)* |
+| 14.3 Performance Tools | Task Manager | Task Manager | 1.4 | 4:52 | [task-manager.md](1-operating-systems/task-manager.md) |
+| 14.3 Performance Tools | Event Viewer, Services, Perf Monitor | Review: MMC | 1.4 | *(Mod 13)* | [the-microsoft-management-console.md](1-operating-systems/the-microsoft-management-console.md) |
+| 14.3 Performance Tools | System Info, Resource Monitor, msconfig | Review: Additional Windows Tools | 1.4 | *(Mod 13)* | [additional-windows-tools.md](1-operating-systems/additional-windows-tools.md) |
+| 14.4 Troubleshoot Windows OS Problems | Boot recovery, System Restore, rollback, performance, faults | Troubleshooting Windows | 3.1 | 17:30 | *(planned)* |
 
 **Note:** Lean on CertMaster for WinRM (14.2.5) and SPICE (14.2.8) — not all video courses cover them.
 
@@ -197,9 +197,9 @@ Heaviest module.
 
 ## Current Build Focus
 
-**Module 12 cloud block:** Cloud Productivity Tools (1.11) — **Available**.
+**Objective 1.7 complete** for this block: Windows Network Technologies, Configuring Windows Firewall, Windows IP Address Configuration, and Windows Network Connections — **Available**.
 
-**Next:** Physical Security (2.1) — paste transcript when ready.
+**Next:** macOS Overview (1.8) — paste the transcript when ready.
 
 Objective **1.6** and **1.10**–**1.11** Module 12 app/cloud lessons are Available. Installing Operating Systems (1.2) remains stubbed for Module 16.
 
