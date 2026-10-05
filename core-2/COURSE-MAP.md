@@ -81,8 +81,8 @@ Start here for Core 2 operational procedures and OS foundations.
 
 | CertMaster | Topics | Lesson Topic | Section | Time |
 | --- | --- | --- | --- | --- |
-| 15.1 Logical Security Concepts | Logical controls, information security | Logical Security | 2.1 | 10:38 |
-| 15.1 Logical Security Concepts | Authentication methods | Authentication and Access | 2.1 | 12:05 |
+| 15.1 Logical Security Concepts | Logical controls, information security | [Logical Security](2-security/logical-security.md) | 2.1 | 10:38 |
+| 15.1 Logical Security Concepts | Authentication methods | [Authentication and Access](2-security/authentication-and-access.md) | 2.1 | 12:05 |
 | 15.1 / 15.2 / 15.3 | Users/groups/UAC; login options; NTFS vs share permissions, inheritance | Windows Security Settings | 2.2 | 13:44 |
 | 15.2 / 15.3 | Domains, AD, GPO, login scripts; home folders, roaming, redirection | Active Directory | 2.2 | 27:40 |
 | 15.3 Windows Shares | Workgroups, file/printer sharing | Windows Network Technologies | 1.7 | 8:37 |
@@ -138,8 +138,8 @@ Heaviest module.
 | 18.2 Wireless Security Protocols | WPA, Wi-Fi authentication | Wireless Encryption | 2.3 | 6:19 |
 | 18.2 Wireless Security Protocols | Enterprise auth, RADIUS, TACACS+, Kerberos | Authentication Methods | 2.3 | 7:58 |
 | 18.3 SOHO Router Security | Setup, firmware, firewall, port forwarding, UPnP, screened subnets | Securing a SOHO Network | 2.10 | 15:03 |
-| 18.4 Additional Security Measures | Alarms and surveillance | Physical Security | 2.1 | 10:06 |
-| 18.4 Additional Security Measures | Physical access control, lock types | Physical Access Security | 2.1 | 8:37 |
+| 18.4 Additional Security Measures | Alarms and surveillance | [Physical Security](2-security/physical-security.md) | 2.1 | 10:06 |
+| 18.4 Additional Security Measures | Physical access control, lock types | [Physical Access Security](2-security/physical-access-security.md) | 2.1 | 8:37 |
 
 ---
 
@@ -148,7 +148,7 @@ Heaviest module.
 | CertMaster | Topics | Lesson Topic | Section | Time |
 | --- | --- | --- | --- | --- |
 | 19.1 Account Security | Passwords, end-user practices, default admin, guest, policies | Security Best Practices | 2.7 | 15:15 |
-| 19.2 Workstation Security | Defender Antivirus | Defender Antivirus | 2.2 | 5:01 |
+| 19.2 Workstation Security | Defender Antivirus | [Defender Antivirus](2-security/defender-antivirus.md) | 2.2 | 5:01 |
 | 19.2 Workstation Security | Defender Firewall | Windows Firewall | 2.2 | 5:20 |
 | 19.2 Workstation Security | EFS, BitLocker | Review: Windows Security Settings | 2.2 | *(Mod 15)* |
 | 19.3 Browser Security | Selection, settings, extensions, patching, certificates, privacy | Browser Security | 2.11 | 18:56 |
@@ -197,11 +197,11 @@ Heaviest module.
 
 ## Current Build Focus
 
-**Objective 1.7 complete** for this block: Windows Network Technologies, Configuring Windows Firewall, Windows IP Address Configuration, and Windows Network Connections — **Available**.
+**Authentication and Access (2.1)** — **Available**.
 
-**Next:** macOS Overview (1.8) — paste the transcript when ready.
+**Next:** Defender Antivirus (2.2) — paste the transcript when ready.
 
-Objective **1.6** and **1.10**–**1.11** Module 12 app/cloud lessons are Available. Installing Operating Systems (1.2) remains stubbed for Module 16.
+macOS Overview (1.8) and Installing Operating Systems (1.2) are still stubbed.
 
 ---
 

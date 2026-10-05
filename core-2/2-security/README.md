@@ -12,13 +12,24 @@ This domain covers security concepts, threats, device hardening, and related sup
 
 | Topic | Status | CertMaster module |
 | --- | --- | --- |
-| [Physical Security](physical-security.md) | Coming Soon | Module 18 |
-| [Physical Access Security](physical-access-security.md) | Coming Soon | Module 18 |
+| [Physical Security](physical-security.md) | Available | Module 18 |
+| [Physical Access Security](physical-access-security.md) | Available | Module 18 |
+| [Logical Security](logical-security.md) | Available | Module 15 |
+| [Authentication and Access](authentication-and-access.md) | Available | Module 15 |
+
+### 2.2 — Windows Security
+
+| Topic | Status | CertMaster module |
+| --- | --- | --- |
+| [Defender Antivirus](defender-antivirus.md) | Coming Soon | Module 19 |
 
 ## Suggested Order
 
 1. [Physical Security](physical-security.md)
 2. [Physical Access Security](physical-access-security.md)
+3. [Logical Security](logical-security.md)
+4. [Authentication and Access](authentication-and-access.md)
+5. [Defender Antivirus](defender-antivirus.md)
 
 ---
 
